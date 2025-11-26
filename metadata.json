@@ -1,0 +1,5 @@
+{
+  "name": "ZapAnalytics Pro",
+  "description": "A comprehensive WhatsApp chat analyzer that visualizes statistics, user behavior, and conversation patterns entirely client-side.",
+  "requestFramePermissions": []
+}
